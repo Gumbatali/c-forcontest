@@ -1,0 +1,3 @@
+/Users/gumbatali/Desktop/HW4/contest3/cmake-build-debug/CMakeFiles/contest3.dir
+/Users/gumbatali/Desktop/HW4/contest3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gumbatali/Desktop/HW4/contest3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
